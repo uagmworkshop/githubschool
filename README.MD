@@ -11,3 +11,4 @@ Changes by Juan
 
 Francisco Changes
 Change by SergioParejaPerez
+New changes to README.
