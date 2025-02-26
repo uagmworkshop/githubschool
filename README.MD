@@ -6,5 +6,4 @@ New text Manuel
 grg - nuevo
 
 Testing changes, you guys rock!
-
 Change by SergioParejaPerez
