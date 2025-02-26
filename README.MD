@@ -6,4 +6,7 @@ New text Manuel
 grg - nuevo
 
 Testing changes, you guys rock!
-Francisco Changes test
+
+Changes by Juan
+
+Francisco Changes
